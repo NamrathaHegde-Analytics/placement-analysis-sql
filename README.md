@@ -24,5 +24,22 @@ Analysed university placement data across 5 departments to identify placement ra
 - MySQL
 - MySQL Workbench
 
+## Query Results
+
+### Placement Rate by Department
+<img width="570" height="422" alt="WhatsApp Image 2026-04-16 at 3 24 55 PM" src="https://github.com/user-attachments/assets/11aed535-5358-4408-9b14-33b6a89eea12" />
+
+### Average Salary by Department
+<img width="573" height="352" alt="WhatsApp Image 2026-04-16 at 3 27 55 PM" src="https://github.com/user-attachments/assets/ff9e630e-2231-4877-b9aa-6fc092c38de3" />
+
+### On-campus vs Off-campus
+<img width="359" height="237" alt="WhatsApp Image 2026-04-16 at 3 29 24 PM" src="https://github.com/user-attachments/assets/92a96147-16cb-46f3-a2ef-fb25d1ef6798" />
+
+### Top Hiring Companies
+<img width="570" height="437" alt="WhatsApp Image 2026-04-16 at 3 31 09 PM" src="https://github.com/user-attachments/assets/785e6dc8-d866-4b80-b1d4-eb91d1829f25" />
+
+### High Performers Unplaced
+<img width="577" height="307" alt="WhatsApp Image 2026-04-16 at 3 32 56 PM" src="https://github.com/user-attachments/assets/f6c79818-903e-4242-8594-c6c7e61e1312" />
+
 ## Author
 Namratha Hegde - https://www.linkedin.com/in/namratha-hegde/
